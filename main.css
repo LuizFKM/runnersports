@@ -81,6 +81,7 @@ form input {
     letter-spacing: 2px;
     max-width: 100%;
     padding: 8px;
+    border: none;
     border-radius: 8px;
     margin-bottom: 8px;
 }
