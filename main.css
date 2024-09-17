@@ -14,7 +14,7 @@
 }
 
 html, body {
-    height: 100%;
+
     overflow: hidden;
 }
 
@@ -139,4 +139,16 @@ ul li {
 
 .produto button {
     max-width: 100%;
+}
+
+footer{
+    color: #fff;
+    padding: 8px;
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    width: 100%;
+    background-color: #1f0c53;
+    text-align: center;
+    
 }
